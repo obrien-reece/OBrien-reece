@@ -1,3 +1,14 @@
+.column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 <div class="row">
   <div class="column">
      <a href="https://app.daily.dev/DailyDevTips">
@@ -8,5 +19,6 @@
   Test
   </div>
 </div>
+
 
 
