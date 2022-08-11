@@ -16,17 +16,21 @@
 </p>
    
    <hr>
-   
-<div class='parent' style='display: flex;'>
-  <div class='child' style='flex: 1;'>
-        <a href="https://app.daily.dev/DailyDevTips">
-      <img src="https://github.com/OBrien-reece/OBrien-reece/blob/main/devcard.svg" width="400" alt="OBrien Reece's Dev Card"/>
-      </a>
-   </div>
-  <div class='child' style='flex: 1;'>teetbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb</div>
-</div>
 
 </div>
+   
+   
+<div style='display: flex;'>
+   <div style='flex: 0 0 65%'>
+   <a href="https://app.daily.dev/DailyDevTips">
+   <img src="https://github.com/OBrien-reece/OBrien-reece/blob/main/devcard.svg" width="400" alt="OBrien Reece's Dev Card"/>
+    </a> 
+   </div>
+   <div style='flex: 1;'>teetbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb</div>
+</div> 
+    
+
+
    
 
 
