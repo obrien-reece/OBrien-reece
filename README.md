@@ -2,16 +2,17 @@
 
 <p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=betascribbles&show_icons=true&theme=jolly&layout=compact" />
+<img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=OBrien-reece&show_icons=true&theme=jolly&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-<img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betascribbles&langs_count=8&theme=jolly&layout=compact" />
+<img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OBrien-reece&langs_count=8&theme=jolly&layout=compact" />
 </a>
 
 <p> 
-<a href="https://twitter.com/BetaScribbles" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/firdaus-h-salim-73589118b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="https://betascribbles.medium.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://twitter.com/indeche_o" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+<a href="[https://www.linkedin.com/in/indeche-evans-331987210/](Evance Indeche)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+   
+<!-- <a href="https://betascribbles.medium.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> -->
 </p>
    
    <hr>
