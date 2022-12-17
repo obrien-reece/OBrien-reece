@@ -1,5 +1,5 @@
 <div align='center'>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=obrien-reece&label=Profile%20views&color=0e75b6&style=flat" alt="obrien-reece" /> </p>
 <p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=OBrien-reece&show_icons=true&theme=jolly&layout=compact" />
