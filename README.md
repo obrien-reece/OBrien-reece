@@ -5,11 +5,12 @@
 <ul>
     <li>A passionate backend developer</li>
     <li>Currently working on my Laravel skillset</li>
+    <li>📫 How to reach me indeche.evans.o@gmail.com</li>
 </ul>
 
-<!-- 
+
 <div align='center'>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=OBrien-reece&label=Profile%20views&color=0e75b6&style=flat" alt="obrien-reece" /> </p>-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=OBrien-reece&label=Profile%20views&color=0e75b6&style=flat" alt="obrien-reece" /> </p>
 
 <p> 
 <a href="https://github.com/OBrien-reece">
