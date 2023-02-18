@@ -1,4 +1,5 @@
-<a href="https://git.io/typing-svg">
+![image](https://github.com/OBrien-reece/OBrien-reece/blob/main/dino.gif)
+<!--<a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+It's+O'Brien" alt="Typing SVG" />
 </a>  
 
@@ -26,19 +27,12 @@
 <a href="https://www.linkedin.com/in/indeche-evans-331987210/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
    
-   <hr>
-<!--    
+   <hr>  
 <a href="https://app.daily.dev/DailyDevTips">
    <img src="https://github.com/OBrien-reece/OBrien-reece/blob/main/devcard.svg" width="400" alt="OBrien Reece's Dev Card"/> 
-</a>  -->
+</a>  
 
-</div>
+</div>-->
    
    
-
-
-   
-
-
-
 
