@@ -1,4 +1,4 @@
-![gitartwork](gitartwork.svg)
+![image](https://github.com/OBrien-reece/OBrien-reece/blob/main/dino.gif)
 
 ---
 
@@ -21,7 +21,8 @@
 
 ---
 
-![image](https://github.com/OBrien-reece/OBrien-reece/blob/main/dino.gif)
+![gitartwork](gitartwork.svg)
+
 
    
    
