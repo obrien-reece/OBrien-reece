@@ -15,4 +15,4 @@
             user_name: OBrien-reece
             # Text on contribution graph 
             text: OBRIEN
-       - uses: jasineri/simple-push-action@v1
+       - uses: jasineri/simple-push-action@v2
