@@ -21,7 +21,7 @@
 
 ---
 
-![gitartwork](gitartwork.svg)
+<!-- ![gitartwork](gitartwork.svg) -->
 
 
    
